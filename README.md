@@ -16,7 +16,7 @@ O laboratório foi desenvolvido para praticar conceitos de redes de computadores
 - Aprender a verificar e solucionar problemas com comandos Cisco IOS.
 
 ## 3. Topologia da rede
-
+![Topologia da rede](topologia.png)
 A rede possui:
 
 - 1 roteador: R1.
