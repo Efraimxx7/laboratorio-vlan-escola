@@ -17,6 +17,7 @@ O laboratório foi desenvolvido para praticar conceitos de redes de computadores
 
 ## 3. Topologia da rede
 ![Topologia da rede](topologia.png)
+
 A rede possui:
 
 - 1 roteador: R1.
