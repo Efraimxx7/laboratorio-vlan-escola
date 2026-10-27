@@ -113,4 +113,4 @@ Durante o desenvolvimento, foram praticados os conceitos de VLAN, portas access,
 
 ## Autor
 
-Projeto desenvolvido para fins de estudo e prática de redes de computadores utilizando Cisco Packet Tracer.
+Projeto desenvolvido para fins de estudo e prática de redes de computadores utilizando o Cisco Packet Tracer.
